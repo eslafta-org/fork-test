@@ -1,2 +1,2 @@
 # fork-test
-Testinh how forks are handled.
+Testing how forks are handled.
